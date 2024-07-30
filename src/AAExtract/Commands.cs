@@ -14,7 +14,7 @@ namespace AAExtract;
 internal class Commands
 {
     /// <summary>Unpack Xamarin.Android/.NET Android Assembly Blob Files.</summary>
-    /// <param name="inputPath">-i, Input File.</param>
+    /// <param name="inputPath">-i, Input Path to assemblies.</param>
     /// <param name="arch">-a, Arch blob type to extract. (Ex. arm64 x64).</param>
     /// <param name="force">-f, Force overwrite the output directory.</param>
     /// <param name="outputPath">-o, Output path for the extracted assemblies.</param>
