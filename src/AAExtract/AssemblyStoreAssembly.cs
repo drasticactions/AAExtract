@@ -1,3 +1,9 @@
+// <copyright file="AssemblyStoreAssembly.cs" company="Drastic Actions">
+// Copyright (c) Drastic Actions. All rights reserved.
+// </copyright>
+
+namespace AAExtract;
+
 /// <summary>
 /// Represents an assembly stored in the assembly store.
 /// </summary>

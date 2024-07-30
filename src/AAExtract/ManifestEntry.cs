@@ -1,3 +1,9 @@
+// <copyright file="ManifestEntry.cs" company="Drastic Actions">
+// Copyright (c) Drastic Actions. All rights reserved.
+// </copyright>
+
+namespace AAExtract;
+
 /// <summary>
 /// Represents an entry in the manifest.
 /// </summary>

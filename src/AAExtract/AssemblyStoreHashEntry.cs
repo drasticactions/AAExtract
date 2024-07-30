@@ -1,3 +1,9 @@
+// <copyright file="AssemblyStoreHashEntry.cs" company="Drastic Actions">
+// Copyright (c) Drastic Actions. All rights reserved.
+// </copyright>
+
+namespace AAExtract;
+
 /// <summary>
 /// Represents a hash entry in the assembly store.
 /// </summary>
