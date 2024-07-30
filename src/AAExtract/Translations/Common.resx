@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="OutputDirectoryExists" xml:space="preserve">
+        <value>The output directory ({0}) exists.</value>
+    </data>
+    <data name="ManifestFileDoesNotExist" xml:space="preserve">
+        <value>The Manifest file ({0}) does not exist.</value>
+    </data>
+    <data name="MainAssemblyBlobDoesNotExist" xml:space="preserve">
+        <value>The Main assemblies blob ({0}) does not exist.</value>
+    </data>
+    <data name="IndexMissingException" xml:space="preserve">
+        <value>Could not find entry for the index {i} in the manifest file.</value>
+    </data>
+    <data name="AssemblyNameCouldNotBeFound" xml:space="preserve">
+        <value>The assembly name could not be found for {0}.</value>
+    </data>
+</root>
